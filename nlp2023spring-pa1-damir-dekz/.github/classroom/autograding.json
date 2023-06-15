@@ -1,0 +1,31 @@
+{
+  "tests": [
+    {
+      "name": "Grading A",
+      "setup": "",
+      "run": "python -m unittest tasks_test.TestTasks.test_a01",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10
+    },
+    {
+      "name": "Grading B",
+      "setup": "",
+      "run": "python -m unittest tasks_test.TestTasks.test_b01",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10
+    },
+    {
+      "name": "Grading C",
+      "setup": "",
+      "run": "python -m unittest tasks_test.TestTasks.test_c01",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10
+    }
+  ]
+}
