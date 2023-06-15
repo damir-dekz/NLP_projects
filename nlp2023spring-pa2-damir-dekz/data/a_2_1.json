@@ -1,0 +1,13 @@
+{
+  "spam_messages": [
+    "Buy bicycles for free",
+    "Bicycles and motorbikes for free",
+    "Motorbikes rides easy and free"
+  ],
+  "normal_messages": [
+    "Let's go ride bicycles",
+    "Last week I bought motorbikes and they are cool",
+    "Some messages about bicycles and motorbikes, that are free, are spam messages"
+  ],
+  "input_message": "Cool bicycles and motorbikes"
+}
